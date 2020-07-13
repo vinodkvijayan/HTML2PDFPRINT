@@ -157,7 +157,7 @@ Project Link: [https://github.com/vinodkvijayan/HTML2PDFPRINT](https://github.co
 [issues-shield]: https://img.shields.io/github/issues/vinodkvijayan/HTML2PDFPRINT?style=flat-square
 [issues-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/issues
 [license-shield]: https://img.shields.io/github/license/vinodkvijayan/HTML2PDFPRINT?style=flat-square
-[license-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/blob/master/LICENSE.txt
+[license-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/blob/master/UNLICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vinodkvijayan
 [product-screenshot]: https://github.com/vinodkvijayan/HTML2PDFPRINT/blob/master/images/Logo.png?raw=true
