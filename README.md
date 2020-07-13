@@ -13,15 +13,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/vinodkvijayan/HTML2PDFPRINT">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./images/logo.png" alt="Logo" width="630" height="75">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">HTML 2 PDF Print</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/vinodkvijayan/HTML2PDFPRINT"><strong>Explore the docs »</strong></a>
+    Sample JS implementations for HTML to PDFConversion
     <br />
     <br />
     <a href="https://github.com/vinodkvijayan/HTML2PDFPRINT/issues">Report a Bug</a>
@@ -33,11 +31,12 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Table of Contents <TO -DO>
 
-- [Table of Contents](#table-of-contents)
+- [Table of Contents <TO -DO>](#table-of-contents-to--do)
 - [About The Project](#about-the-project)
   - [Built With](#built-with)
+- [TO -DO](#to--do)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -53,18 +52,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Puppeteer](https://pptr.dev/)
+* [pdf-lib](https://github.com/Hopding/pdf-lib)
+* [pagejs](https://www.pagedjs.org/)
 
-
+## TO -DO
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started 
 
 To get a local copy up and running follow these simple steps.
 
@@ -140,9 +139,8 @@ Project Link: [https://github.com/vinodkvijayan/HTML2PDFPRINT](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
 
 
 
@@ -150,16 +148,16 @@ Project Link: [https://github.com/vinodkvijayan/HTML2PDFPRINT](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/vinodkvijayan/HTML2PDFPRINT?style=flat-square
+[contributors-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/vinodkvijayan/HTML2PDFPRINT?style=flat-square
+[forks-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/network/members
+[stars-shield]: https://img.shields.io/github/stars/vinodkvijayan/HTML2PDFPRINT?style=flat-square
+[stars-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vinodkvijayan/HTML2PDFPRINT?style=flat-square
+[issues-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/issues
+[license-shield]: https://img.shields.io/github/license/vinodkvijayan/HTML2PDFPRINT?style=flat-square
+[license-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/vinodkvijayan
+[product-screenshot]: images/logo.png
