@@ -131,7 +131,7 @@ Anyone is free to copy, modify, publish, use, compile, sell, or distribute the o
 <!-- CONTACT -->
 ## Contact
 
-Vinod K Vijayan - [@vinkvijay](https://twitter.com/vinkvijay) - vk.codemusings@gmail.com
+Vinod K Vijayan - [@vinkvij](https://twitter.com/vinkvij) - vk.codemusings@gmail.com
 
 Project Link: [https://github.com/vinodkvijayan/HTML2PDFPRINT](https://github.com/vinodkvijayan/HTML2PDFPRINT)
 
