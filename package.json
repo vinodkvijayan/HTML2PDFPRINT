@@ -1,0 +1,26 @@
+{
+  "name": "html2pdfprint",
+  "version": "1.0.0",
+  "description": "PDF generation with Node & Puppeteer",
+  "main": "./js/html2pdfprint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:HTML": "node ./js/createHTML.js",
+    "prebuild:PDF": "npm run build:HTML",
+    "build:PDF": "node ./js/createPdf.js",
+    "mergePDF": "node ./js/mergepdf.js"
+  },
+  "keywords": [
+    "PDF",
+    "Node",
+    "puppeteer"
+  ],
+  "author": "Vinod K Vijayan",
+  "license": "MIT",
+  "dependencies": {
+    "easy-pdf-merge": "^0.2.2",
+    "pagedjs": "^0.1.42",
+    "pdf-lib": "^1.9.0",
+    "puppeteer": "^5.0.0"
+  }
+}
