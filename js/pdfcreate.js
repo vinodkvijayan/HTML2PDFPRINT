@@ -1,4 +1,4 @@
-//Using the pdf-lib [https://pdf-lib.js.org/ ; https://github.com/Hopding/pdf-lib] npm module for creating and editing PDFs
+//Using the pdf-lib [https://pdf-lib.js.org/ ; https://github.com/Hopding/pdf-lib] npm module for creating and editing PDF
 
 const {
   PDFDocument,
