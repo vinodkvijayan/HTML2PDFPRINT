@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/vinodkvijayan/HTML2PDFPRINT">
-    <img src="./images/logo.png" alt="Logo" width="630" height="75">
+    <img src="https://github.com/vinodkvijayan/HTML2PDFPRINT/blob/master/images/Logo.png" alt="Logo" width="630" height="75">
   </a>
 
   <h3 align="center">HTML 2 PDF Print</h3>
@@ -160,4 +160,4 @@ Project Link: [https://github.com/vinodkvijayan/HTML2PDFPRINT](https://github.co
 [license-url]: https://github.com/vinodkvijayan/HTML2PDFPRINT/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vinodkvijayan
-[product-screenshot]: images/logo.png
+[product-screenshot]: https://github.com/vinodkvijayan/HTML2PDFPRINT/blob/master/images/Logo.png?raw=true
