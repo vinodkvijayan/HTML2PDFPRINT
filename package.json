@@ -16,7 +16,7 @@
     "puppeteer"
   ],
   "author": "Vinod K Vijayan",
-  "license": "MIT",
+  "license": "THE UNLICENSE",
   "dependencies": {
     "easy-pdf-merge": "^0.2.2",
     "pagedjs": "^0.1.42",
