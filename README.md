@@ -126,6 +126,9 @@ All of the code and documentation in this HTML2PDFPRINT is completely dedicated 
 
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute the original html2pdfprint code, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
+## Privacy Policy
+
+We respect users right to privacy and doesn’t collect, use, store, share or disclose any information about our users.
 
 <!-- CONTACT -->
 ## Contact
@@ -140,10 +143,6 @@ Project Link: [https://github.com/vinodkvijayan/HTML2PDFPRINT](https://github.co
 ## Acknowledgements
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
